@@ -1,0 +1,3 @@
+rootProject.name='WindDemo'
+include ':app'
+include ':login'

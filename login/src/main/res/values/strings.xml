@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="taobao">淘宝授权登录</string>
+</resources>
